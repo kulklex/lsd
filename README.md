@@ -1,2 +1,2 @@
 # lsd
-A live streaming church app
+A live streaming church app/website 
