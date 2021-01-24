@@ -1,2 +1,2 @@
 # lsd
-A live streaming donations app
+A live streaming church app
